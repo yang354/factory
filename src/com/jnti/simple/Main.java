@@ -75,6 +75,7 @@ public class Main {
             }
         }
         System.out.println(maxChar+" "+max);
+        System.out.println("你是谁。。。。。");
     }
 
     //JAVA比较两个数组中是否存在相同元素，并且取出相同元素（以两个String[]数组为例）
