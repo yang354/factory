@@ -82,6 +82,8 @@ public class Main {
         StringBuilder  stringBuilder = new StringBuilder();
         Set<String> stringSet = new HashSet<>();
         for (String s:arr1){
+
+            System.out.println(" ");
             stringSet.add(s);
         }
         for (String s:arr2){
